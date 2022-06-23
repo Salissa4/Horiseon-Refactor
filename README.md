@@ -1,9 +1,8 @@
 # css-homework-demo
-<<<<<<< HEAD
 
 ## Horiseon Marketing Project
 
-Goal: Refactor webpage utilizing semantic HTML, and adhere to accessibility standards
+Goal: Reengineer webpage utilizing semantic HTML, and adhere to accessibility standards
 
 Actions:
 1. Implement semantic HTML replacing unspecified and non destriptive tags
@@ -19,26 +18,15 @@ Actions:
 11. Create a README.md 
 
 
-## Installation
+## Demo
 
-Utilize internet browser to view. 
+https://salissa4.github.io/css-homework-demo/
 
-https://github.com/Salissa4/css-homework-demo.git
-
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+<img src="./assets/images/Horiseon.jpg">
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
+In process
 
 ## License
 
@@ -69,8 +57,3 @@ SOFTWARE.
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-
-
-=======
-Utilize HTML, CSS to adhere to accessibility criteria
->>>>>>> c86695e57f47fa1a00e03435d32b673d0b0baa23
