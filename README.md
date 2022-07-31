@@ -1,4 +1,4 @@
-# css-homework-demo
+# Refactor Webpage
 
 ## Horiseon Marketing Project
 
@@ -20,7 +20,7 @@ Actions:
 
 ## Demo
 
-https://salissa4.github.io/css-homework-demo/
+https://salissa4.github.io/Horiseon-Refactor/
 
 <img src="./assets/images/Horiseon.jpg">
 
