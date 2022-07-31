@@ -26,7 +26,7 @@ https://salissa4.github.io/css-homework-demo/
 
 ## Credits
 
-In process
+Edited: Tomas Diaz https://github.com/tomasdiaz83
 
 ## License
 
